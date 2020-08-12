@@ -6,4 +6,4 @@
 
 ## 使用
 
-下载 ## [auto-ncmdump.exe](https://github.com/iKunpw/auto-ncmdump/releases/download/1.0/auto-ncmdump.exe "auto-ncmdump.exe")  后直接运行，按照操作提示使用。
+下载 [auto-ncmdump.exe](https://github.com/iKunpw/auto-ncmdump/releases/download/1.0/auto-ncmdump.exe "auto-ncmdump.exe")  后直接运行，按照操作提示使用。

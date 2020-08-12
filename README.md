@@ -13,7 +13,7 @@
 ## 使用 Usage
 
 无需 Python 环境，仅支持 Windows 10操作系统。  
-下载 [auto-ncmdump.exe](https://github.com/iKunpw/auto-ncmdump/releases/download/1.0/auto-ncmdump.exe "auto-ncmdump.exe")  后直接运行，按照操作提示使用。
+下载 [auto-ncmdump.exe](https://github.com/iKunpw/auto-ncmdump/releases/download/1.0/auto-ncmdump.exe "auto-ncmdump.exe")  后运行，按照操作提示使用。
   
   
 软件仅供学习交流，请勿用于商业及非法用途，如产生法律纠纷与本人无关。

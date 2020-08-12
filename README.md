@@ -4,6 +4,9 @@
 
 ![shield](https://img.shields.io/badge/python-2.7%20%7C%203.4%2B-blue)
 
+
+## [Downloads EXE](https://github.com/iKunpw/auto-ncmdump/releases/download/1.0/auto-ncmdump.exe "auto-ncmdump.exe") 
+
 ## 1.准备
 
 ```
